@@ -12,4 +12,4 @@
 
 ---
 
-[Site](https://cryptohub.netlify.app/)
+[Site](https://crypto-hub.netlify.app/)
